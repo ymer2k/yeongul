@@ -1,0 +1,38 @@
+{
+    "resources": [
+      "./assets/audio/AllEffectSounds.ogg",
+      "./assets/audio/AllEffectSounds.mp3"
+    ],
+    "spritemap": {
+      "LowPoints": {
+        "start": 0.279,
+        "end": 1.017,
+        "loop": false
+      },
+      "MediumPoints": {
+        "start": 2.316,
+        "end": 3.877,
+        "loop": false
+      },
+      "NoWord": {
+        "start": 4.424,
+        "end": 5.653,
+        "loop": false
+      },
+      "RepeatedWord": {
+        "start": 6.449,
+        "end": 6.751,
+        "loop": false
+      },
+      "Cheers": {
+        "start": 6.98,
+        "end": 11.678,
+        "loop": false
+      },
+      "TickTock": {
+        "start": 12.97,
+        "end": 18.0,
+        "loop": false
+      }
+    }
+  }
