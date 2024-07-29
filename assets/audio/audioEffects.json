@@ -33,6 +33,11 @@
         "start": 12.97,
         "end": 18.0,
         "loop": false
+      },
+      "RoundStart": {
+        "start": 22.05,
+        "end": 24.7,
+        "loop": false
       }
     }
   }
