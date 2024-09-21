@@ -1,47 +1,47 @@
 {
     "grid": [
         [
-            "ㅈ",
-            "ㄹ",
-            "ㅡ",
-            "ㅂ"
+            "ㅣ",
+            "ㅍ",
+            "ㅣ",
+            "ㅅ"
         ],
         [
-            "ㅐ",
+            "ㅂ",
+            "ㅂ",
             "ㄱ",
-            "ㅓ",
-            "ㄱ"
+            "ㅏ"
         ],
         [
-            "ㅊ",
-            "ㅈ",
-            "ㅏ",
-            "ㅁ"
+            "ㅜ",
+            "ㅗ",
+            "ㅇ",
+            "ㅣ"
         ],
         [
-            "ㅏ",
-            "ㄷ",
-            "ㅎ",
-            "ㅓ"
+            "ㄴ",
+            "ㅅ",
+            "ㅁ",
+            "ㅅ"
         ]
     ],
     "bonuses": [
         [
+            1,
             0,
-            0,
-            0,
+            2,
             0
         ],
         [
+            1,
             0,
             0,
-            0,
-            2
+            1
         ],
         [
             0,
             0,
-            1,
+            0,
             0
         ],
         [
@@ -52,257 +52,1781 @@
         ]
     ],
     "words": [
-        "채급",
-        "거르개",
-        "브",
-        "개자",
-        "차",
-        "점극",
-        "잠거",
-        "차작",
-        "검가",
-        "잫",
-        "차다",
-        "맞",
-        "각벌",
-        "자개",
-        "채적",
-        "잠허",
-        "학자",
-        "버마",
-        "가개",
-        "자거",
-        "학벌",
-        "갖",
-        "거개",
-        "럭",
-        "극",
-        "버개",
-        "다",
-        "학적",
-        "벅",
-        "채각",
-        "머",
-        "하저",
-        "맏",
-        "가적",
-        "절개",
-        "르",
-        "거작",
-        "재거",
-        "하급",
-        "학점",
-        "개저",
-        "학채",
-        "학재",
-        "감급",
-        "각점",
-        "거막",
-        "그럼",
-        "가절",
-        "절가",
-        "블",
-        "다겁",
-        "가급",
-        "먹",
-        "작범",
-        "다작",
-        "점하",
-        "긁",
-        "개작",
-        "각래",
-        "하자",
-        "거자",
-        "재감",
-        "채자",
-        "차닥",
-        "작벌",
-        "걸",
-        "검",
-        "점가",
-        "하다",
-        "마자",
-        "다자",
-        "그",
-        "함거",
-        "급거",
-        "허",
-        "가점",
-        "마개",
-        "작재",
-        "글감",
-        "재자",
-        "저글",
-        "가자채",
-        "차담",
-        "자갤",
-        "범가",
-        "그래",
-        "차점",
-        "마극",
-        "그거",
-        "마저",
-        "걸가",
-        "하재",
-        "저",
-        "마다",
-        "래",
-        "가재",
-        "자",
-        "범",
-        "겁",
-        "멀개",
-        "저감",
-        "하거",
-        "다적",
-        "잫다",
-        "버그",
-        "차자",
-        "다채",
-        "하적",
-        "다재",
-        "그럼하다",
-        "버글",
-        "거래",
-        "자책",
-        "자급",
-        "채저",
-        "그러",
-        "자허",
-        "극접",
-        "벌",
-        "거마",
-        "재각",
-        "범각",
-        "잴",
-        "륵",
-        "멎",
-        "가",
-        "자채",
-        "감겁",
-        "적채",
-        "재작",
-        "다거",
-        "럼",
-        "저마",
-        "맣",
-        "범학",
-        "급감",
-        "가자",
-        "적재",
-        "잠급",
-        "저극",
-        "먹자",
-        "마접",
-        "급가",
-        "가다",
-        "자겁",
-        "적",
-        "가저",
-        "점급",
-        "책",
-        "거가",
-        "벌개",
-        "러",
-        "개적",
-        "각",
-        "갖다",
-        "륵막",
-        "각재",
-        "채점",
-        "작래",
-        "담",
-        "급",
-        "러브",
-        "극자",
-        "막채",
-        "막자",
-        "저마다",
-        "러그",
-        "개",
-        "맞다",
-        "감",
-        "랙",
-        "재",
-        "다급",
-        "저각",
-        "닻",
-        "챌",
-        "글",
-        "절재",
-        "거래자",
-        "적마",
-        "재걸",
-        "거재",
-        "찾다",
-        "하",
-        "그럭",
-        "하절",
-        "차재",
-        "재적",
-        "자극",
-        "험",
-        "개접",
-        "젉",
-        "개차",
-        "마적",
-        "거",
-        "허멀",
-        "저가",
-        "다점",
-        "채",
-        "절급",
-        "자다",
-        "각저",
-        "적막",
-        "거멓다",
-        "점",
-        "자검",
-        "학",
-        "개절",
-        "거륵",
-        "거머하다",
-        "닥채",
-        "책점",
-        "책자",
-        "잠",
-        "개잠",
-        "막벌",
-        "걸개",
-        "절감",
-        "저개",
-        "재점",
-        "벌재",
-        "벅차다",
-        "갇",
-        "개점",
-        "벚",
-        "접각",
-        "자글",
-        "절",
-        "재그럭",
-        "작",
-        "마",
-        "막",
-        "닥",
-        "다극",
-        "재가",
-        "채륵",
-        "잭",
-        "극점",
-        "차접",
-        "멀",
-        "멎다",
-        "막차",
-        "저급",
-        "자담",
-        "버가다",
-        "함",
-        "재차",
-        "각자",
-        "접",
-        "절각",
-        "저래",
-        "가거"
+        {
+            "word": "기상수",
+            "common": 0
+        },
+        {
+            "word": "시",
+            "common": 1
+        },
+        {
+            "word": "가임",
+            "common": 0
+        },
+        {
+            "word": "소임",
+            "common": 0
+        },
+        {
+            "word": "몫",
+            "common": 0
+        },
+        {
+            "word": "사고",
+            "common": 1
+        },
+        {
+            "word": "모아",
+            "common": 0
+        },
+        {
+            "word": "비부",
+            "common": 0
+        },
+        {
+            "word": "상순",
+            "common": 0
+        },
+        {
+            "word": "비강",
+            "common": 0
+        },
+        {
+            "word": "곱",
+            "common": 0
+        },
+        {
+            "word": "강보",
+            "common": 0
+        },
+        {
+            "word": "복상시",
+            "common": 0
+        },
+        {
+            "word": "기피",
+            "common": 0
+        },
+        {
+            "word": "본수",
+            "common": 0
+        },
+        {
+            "word": "이모",
+            "common": 1
+        },
+        {
+            "word": "식시",
+            "common": 0
+        },
+        {
+            "word": "강미",
+            "common": 0
+        },
+        {
+            "word": "비상시",
+            "common": 0
+        },
+        {
+            "word": "비김",
+            "common": 0
+        },
+        {
+            "word": "비상미",
+            "common": 0
+        },
+        {
+            "word": "수본",
+            "common": 0
+        },
+        {
+            "word": "아고",
+            "common": 0
+        },
+        {
+            "word": "밋",
+            "common": 0
+        },
+        {
+            "word": "시옷",
+            "common": 0
+        },
+        {
+            "word": "녹아",
+            "common": 0
+        },
+        {
+            "word": "시피",
+            "common": 0
+        },
+        {
+            "word": "본",
+            "common": 1
+        },
+        {
+            "word": "보기",
+            "common": 0
+        },
+        {
+            "word": "악보",
+            "common": 0
+        },
+        {
+            "word": "강",
+            "common": 1
+        },
+        {
+            "word": "분소",
+            "common": 0
+        },
+        {
+            "word": "부속",
+            "common": 0
+        },
+        {
+            "word": "공비",
+            "common": 0
+        },
+        {
+            "word": "송가",
+            "common": 0
+        },
+        {
+            "word": "봉기",
+            "common": 0
+        },
+        {
+            "word": "임수",
+            "common": 0
+        },
+        {
+            "word": "오",
+            "common": 1
+        },
+        {
+            "word": "부봉",
+            "common": 0
+        },
+        {
+            "word": "삭비",
+            "common": 0
+        },
+        {
+            "word": "기",
+            "common": 0
+        },
+        {
+            "word": "보부",
+            "common": 0
+        },
+        {
+            "word": "강분",
+            "common": 0
+        },
+        {
+            "word": "봉비",
+            "common": 0
+        },
+        {
+            "word": "보비",
+            "common": 0
+        },
+        {
+            "word": "몽수",
+            "common": 0
+        },
+        {
+            "word": "십",
+            "common": 1
+        },
+        {
+            "word": "곤수",
+            "common": 0
+        },
+        {
+            "word": "오가",
+            "common": 0
+        },
+        {
+            "word": "모가",
+            "common": 0
+        },
+        {
+            "word": "싱기",
+            "common": 0
+        },
+        {
+            "word": "기모",
+            "common": 0
+        },
+        {
+            "word": "솝",
+            "common": 0
+        },
+        {
+            "word": "모",
+            "common": 1
+        },
+        {
+            "word": "비",
+            "common": 1
+        },
+        {
+            "word": "피기",
+            "common": 0
+        },
+        {
+            "word": "속",
+            "common": 1
+        },
+        {
+            "word": "복",
+            "common": 1
+        },
+        {
+            "word": "가시",
+            "common": 0
+        },
+        {
+            "word": "공순",
+            "common": 0
+        },
+        {
+            "word": "비기",
+            "common": 0
+        },
+        {
+            "word": "미악",
+            "common": 0
+        },
+        {
+            "word": "깁옷",
+            "common": 0
+        },
+        {
+            "word": "상분",
+            "common": 0
+        },
+        {
+            "word": "목피",
+            "common": 0
+        },
+        {
+            "word": "피봉",
+            "common": 0
+        },
+        {
+            "word": "공",
+            "common": 1
+        },
+        {
+            "word": "심소",
+            "common": 0
+        },
+        {
+            "word": "악비",
+            "common": 0
+        },
+        {
+            "word": "소익",
+            "common": 0
+        },
+        {
+            "word": "시모",
+            "common": 0
+        },
+        {
+            "word": "공시",
+            "common": 0
+        },
+        {
+            "word": "시가",
+            "common": 0
+        },
+        {
+            "word": "미기",
+            "common": 0
+        },
+        {
+            "word": "식온",
+            "common": 0
+        },
+        {
+            "word": "아기봇",
+            "common": 0
+        },
+        {
+            "word": "분",
+            "common": 1
+        },
+        {
+            "word": "시오",
+            "common": 0
+        },
+        {
+            "word": "누보",
+            "common": 0
+        },
+        {
+            "word": "수복이",
+            "common": 0
+        },
+        {
+            "word": "비보",
+            "common": 0
+        },
+        {
+            "word": "악피",
+            "common": 0
+        },
+        {
+            "word": "가이",
+            "common": 0
+        },
+        {
+            "word": "봇",
+            "common": 0
+        },
+        {
+            "word": "비분",
+            "common": 0
+        },
+        {
+            "word": "사",
+            "common": 1
+        },
+        {
+            "word": "수봉기",
+            "common": 0
+        },
+        {
+            "word": "익보",
+            "common": 0
+        },
+        {
+            "word": "놉",
+            "common": 0
+        },
+        {
+            "word": "노부",
+            "common": 0
+        },
+        {
+            "word": "미온",
+            "common": 0
+        },
+        {
+            "word": "농부",
+            "common": 1
+        },
+        {
+            "word": "순",
+            "common": 0
+        },
+        {
+            "word": "온수",
+            "common": 0
+        },
+        {
+            "word": "옥비",
+            "common": 0
+        },
+        {
+            "word": "미온수",
+            "common": 0
+        },
+        {
+            "word": "아",
+            "common": 1
+        },
+        {
+            "word": "식피",
+            "common": 0
+        },
+        {
+            "word": "상속",
+            "common": 0
+        },
+        {
+            "word": "고임",
+            "common": 0
+        },
+        {
+            "word": "식",
+            "common": 1
+        },
+        {
+            "word": "부",
+            "common": 1
+        },
+        {
+            "word": "상기",
+            "common": 0
+        },
+        {
+            "word": "상소",
+            "common": 0
+        },
+        {
+            "word": "놈",
+            "common": 1
+        },
+        {
+            "word": "소분",
+            "common": 0
+        },
+        {
+            "word": "모기",
+            "common": 1
+        },
+        {
+            "word": "옷",
+            "common": 1
+        },
+        {
+            "word": "상복",
+            "common": 0
+        },
+        {
+            "word": "녹",
+            "common": 0
+        },
+        {
+            "word": "사이",
+            "common": 1
+        },
+        {
+            "word": "비피",
+            "common": 0
+        },
+        {
+            "word": "보임",
+            "common": 0
+        },
+        {
+            "word": "부송",
+            "common": 0
+        },
+        {
+            "word": "임",
+            "common": 0
+        },
+        {
+            "word": "복아",
+            "common": 0
+        },
+        {
+            "word": "사기봉",
+            "common": 0
+        },
+        {
+            "word": "목사",
+            "common": 1
+        },
+        {
+            "word": "갓",
+            "common": 0
+        },
+        {
+            "word": "오순",
+            "common": 0
+        },
+        {
+            "word": "녹이",
+            "common": 0
+        },
+        {
+            "word": "심속",
+            "common": 0
+        },
+        {
+            "word": "봉식",
+            "common": 0
+        },
+        {
+            "word": "기상",
+            "common": 0
+        },
+        {
+            "word": "공심",
+            "common": 0
+        },
+        {
+            "word": "상식",
+            "common": 1
+        },
+        {
+            "word": "누",
+            "common": 0
+        },
+        {
+            "word": "봉가",
+            "common": 0
+        },
+        {
+            "word": "고분",
+            "common": 0
+        },
+        {
+            "word": "식분",
+            "common": 0
+        },
+        {
+            "word": "시보기",
+            "common": 0
+        },
+        {
+            "word": "십이목",
+            "common": 0
+        },
+        {
+            "word": "익비",
+            "common": 0
+        },
+        {
+            "word": "송부",
+            "common": 0
+        },
+        {
+            "word": "피",
+            "common": 1
+        },
+        {
+            "word": "사공부",
+            "common": 0
+        },
+        {
+            "word": "비비",
+            "common": 0
+        },
+        {
+            "word": "온",
+            "common": 1
+        },
+        {
+            "word": "사기",
+            "common": 1
+        },
+        {
+            "word": "피분",
+            "common": 0
+        },
+        {
+            "word": "보미",
+            "common": 0
+        },
+        {
+            "word": "비복",
+            "common": 0
+        },
+        {
+            "word": "봉",
+            "common": 0
+        },
+        {
+            "word": "옥",
+            "common": 0
+        },
+        {
+            "word": "비가",
+            "common": 0
+        },
+        {
+            "word": "옥부",
+            "common": 0
+        },
+        {
+            "word": "속상",
+            "common": 0
+        },
+        {
+            "word": "싱기비",
+            "common": 0
+        },
+        {
+            "word": "누속",
+            "common": 0
+        },
+        {
+            "word": "시봉",
+            "common": 0
+        },
+        {
+            "word": "익사",
+            "common": 0
+        },
+        {
+            "word": "피복비",
+            "common": 0
+        },
+        {
+            "word": "기부",
+            "common": 0
+        },
+        {
+            "word": "악",
+            "common": 0
+        },
+        {
+            "word": "비곤",
+            "common": 0
+        },
+        {
+            "word": "옥시",
+            "common": 0
+        },
+        {
+            "word": "미",
+            "common": 1
+        },
+        {
+            "word": "미공",
+            "common": 0
+        },
+        {
+            "word": "비공",
+            "common": 0
+        },
+        {
+            "word": "수보",
+            "common": 0
+        },
+        {
+            "word": "오수",
+            "common": 0
+        },
+        {
+            "word": "익",
+            "common": 0
+        },
+        {
+            "word": "피곤",
+            "common": 1
+        },
+        {
+            "word": "식사",
+            "common": 1
+        },
+        {
+            "word": "오기",
+            "common": 0
+        },
+        {
+            "word": "옴",
+            "common": 0
+        },
+        {
+            "word": "속시",
+            "common": 0
+        },
+        {
+            "word": "상",
+            "common": 1
+        },
+        {
+            "word": "시분",
+            "common": 0
+        },
+        {
+            "word": "부농",
+            "common": 0
+        },
+        {
+            "word": "심수",
+            "common": 0
+        },
+        {
+            "word": "픽",
+            "common": 0
+        },
+        {
+            "word": "공수",
+            "common": 0
+        },
+        {
+            "word": "시몽",
+            "common": 0
+        },
+        {
+            "word": "기핍",
+            "common": 0
+        },
+        {
+            "word": "상모",
+            "common": 0
+        },
+        {
+            "word": "부손",
+            "common": 0
+        },
+        {
+            "word": "곤",
+            "common": 0
+        },
+        {
+            "word": "잇",
+            "common": 0
+        },
+        {
+            "word": "눗",
+            "common": 0
+        },
+        {
+            "word": "송시",
+            "common": 0
+        },
+        {
+            "word": "모가이",
+            "common": 0
+        },
+        {
+            "word": "상보",
+            "common": 0
+        },
+        {
+            "word": "못",
+            "common": 1
+        },
+        {
+            "word": "노비",
+            "common": 0
+        },
+        {
+            "word": "고누",
+            "common": 0
+        },
+        {
+            "word": "목비",
+            "common": 0
+        },
+        {
+            "word": "모강",
+            "common": 0
+        },
+        {
+            "word": "보강",
+            "common": 0
+        },
+        {
+            "word": "목상",
+            "common": 0
+        },
+        {
+            "word": "보가",
+            "common": 0
+        },
+        {
+            "word": "사임",
+            "common": 0
+        },
+        {
+            "word": "사온",
+            "common": 0
+        },
+        {
+            "word": "상시",
+            "common": 0
+        },
+        {
+            "word": "비본",
+            "common": 0
+        },
+        {
+            "word": "소가",
+            "common": 0
+        },
+        {
+            "word": "복사",
+            "common": 1
+        },
+        {
+            "word": "시몬",
+            "common": 0
+        },
+        {
+            "word": "노악",
+            "common": 0
+        },
+        {
+            "word": "수비",
+            "common": 0
+        },
+        {
+            "word": "강순",
+            "common": 0
+        },
+        {
+            "word": "강심",
+            "common": 0
+        },
+        {
+            "word": "보아",
+            "common": 0
+        },
+        {
+            "word": "이",
+            "common": 1
+        },
+        {
+            "word": "부비",
+            "common": 0
+        },
+        {
+            "word": "가",
+            "common": 0
+        },
+        {
+            "word": "숩",
+            "common": 0
+        },
+        {
+            "word": "삭임",
+            "common": 0
+        },
+        {
+            "word": "피부",
+            "common": 1
+        },
+        {
+            "word": "식보",
+            "common": 0
+        },
+        {
+            "word": "비고",
+            "common": 0
+        },
+        {
+            "word": "시기",
+            "common": 1
+        },
+        {
+            "word": "수복",
+            "common": 0
+        },
+        {
+            "word": "십분",
+            "common": 0
+        },
+        {
+            "word": "핍",
+            "common": 0
+        },
+        {
+            "word": "몽",
+            "common": 0
+        },
+        {
+            "word": "심오",
+            "common": 0
+        },
+        {
+            "word": "소미",
+            "common": 0
+        },
+        {
+            "word": "상고",
+            "common": 0
+        },
+        {
+            "word": "시복",
+            "common": 0
+        },
+        {
+            "word": "임소",
+            "common": 0
+        },
+        {
+            "word": "아기",
+            "common": 1
+        },
+        {
+            "word": "삭",
+            "common": 0
+        },
+        {
+            "word": "목시",
+            "common": 0
+        },
+        {
+            "word": "분속",
+            "common": 0
+        },
+        {
+            "word": "모수",
+            "common": 0
+        },
+        {
+            "word": "시아",
+            "common": 0
+        },
+        {
+            "word": "밍",
+            "common": 0
+        },
+        {
+            "word": "몽비",
+            "common": 0
+        },
+        {
+            "word": "곰",
+            "common": 1
+        },
+        {
+            "word": "사기옷",
+            "common": 0
+        },
+        {
+            "word": "소기",
+            "common": 0
+        },
+        {
+            "word": "심악",
+            "common": 0
+        },
+        {
+            "word": "피사",
+            "common": 0
+        },
+        {
+            "word": "녹사",
+            "common": 0
+        },
+        {
+            "word": "기사",
+            "common": 1
+        },
+        {
+            "word": "기분",
+            "common": 1
+        },
+        {
+            "word": "보",
+            "common": 0
+        },
+        {
+            "word": "보잇",
+            "common": 0
+        },
+        {
+            "word": "시목",
+            "common": 0
+        },
+        {
+            "word": "피상",
+            "common": 0
+        },
+        {
+            "word": "시갓",
+            "common": 0
+        },
+        {
+            "word": "가십",
+            "common": 0
+        },
+        {
+            "word": "상깃",
+            "common": 0
+        },
+        {
+            "word": "비비상",
+            "common": 0
+        },
+        {
+            "word": "강수",
+            "common": 0
+        },
+        {
+            "word": "기몽",
+            "common": 0
+        },
+        {
+            "word": "사오기",
+            "common": 0
+        },
+        {
+            "word": "믹",
+            "common": 0
+        },
+        {
+            "word": "목이",
+            "common": 0
+        },
+        {
+            "word": "모익",
+            "common": 0
+        },
+        {
+            "word": "악부",
+            "common": 0
+        },
+        {
+            "word": "상비",
+            "common": 0
+        },
+        {
+            "word": "십악",
+            "common": 0
+        },
+        {
+            "word": "강부",
+            "common": 0
+        },
+        {
+            "word": "모이",
+            "common": 0
+        },
+        {
+            "word": "강소",
+            "common": 0
+        },
+        {
+            "word": "송깃",
+            "common": 0
+        },
+        {
+            "word": "강심수",
+            "common": 0
+        },
+        {
+            "word": "기비",
+            "common": 0
+        },
+        {
+            "word": "비상식",
+            "common": 0
+        },
+        {
+            "word": "빅",
+            "common": 0
+        },
+        {
+            "word": "농가",
+            "common": 0
+        },
+        {
+            "word": "농시",
+            "common": 0
+        },
+        {
+            "word": "심온",
+            "common": 0
+        },
+        {
+            "word": "복부",
+            "common": 0
+        },
+        {
+            "word": "곳",
+            "common": 1
+        },
+        {
+            "word": "누비",
+            "common": 0
+        },
+        {
+            "word": "시고",
+            "common": 0
+        },
+        {
+            "word": "놋",
+            "common": 0
+        },
+        {
+            "word": "미기상",
+            "common": 0
+        },
+        {
+            "word": "봉수",
+            "common": 0
+        },
+        {
+            "word": "이고",
+            "common": 0
+        },
+        {
+            "word": "이가",
+            "common": 0
+        },
+        {
+            "word": "수놈",
+            "common": 0
+        },
+        {
+            "word": "속사",
+            "common": 0
+        },
+        {
+            "word": "농수",
+            "common": 0
+        },
+        {
+            "word": "사옵",
+            "common": 0
+        },
+        {
+            "word": "부본",
+            "common": 0
+        },
+        {
+            "word": "싱",
+            "common": 0
+        },
+        {
+            "word": "노임수",
+            "common": 0
+        },
+        {
+            "word": "소악",
+            "common": 0
+        },
+        {
+            "word": "목부",
+            "common": 0
+        },
+        {
+            "word": "피공",
+            "common": 0
+        },
+        {
+            "word": "목",
+            "common": 1
+        },
+        {
+            "word": "십보가",
+            "common": 0
+        },
+        {
+            "word": "녹피",
+            "common": 0
+        },
+        {
+            "word": "농기",
+            "common": 0
+        },
+        {
+            "word": "노강",
+            "common": 0
+        },
+        {
+            "word": "상수",
+            "common": 0
+        },
+        {
+            "word": "십익",
+            "common": 0
+        },
+        {
+            "word": "복시",
+            "common": 0
+        },
+        {
+            "word": "봉심",
+            "common": 0
+        },
+        {
+            "word": "식부",
+            "common": 0
+        },
+        {
+            "word": "아곱",
+            "common": 0
+        },
+        {
+            "word": "비김수",
+            "common": 0
+        },
+        {
+            "word": "기온",
+            "common": 1
+        },
+        {
+            "word": "누소",
+            "common": 0
+        },
+        {
+            "word": "수",
+            "common": 1
+        },
+        {
+            "word": "식상",
+            "common": 0
+        },
+        {
+            "word": "사공",
+            "common": 0
+        },
+        {
+            "word": "익부",
+            "common": 0
+        },
+        {
+            "word": "수봉",
+            "common": 0
+        },
+        {
+            "word": "소비",
+            "common": 1
+        },
+        {
+            "word": "오미",
+            "common": 0
+        },
+        {
+            "word": "기봉",
+            "common": 0
+        },
+        {
+            "word": "시공",
+            "common": 0
+        },
+        {
+            "word": "봉미",
+            "common": 0
+        },
+        {
+            "word": "시보",
+            "common": 0
+        },
+        {
+            "word": "송기",
+            "common": 0
+        },
+        {
+            "word": "고이",
+            "common": 0
+        },
+        {
+            "word": "가옷",
+            "common": 0
+        },
+        {
+            "word": "오부",
+            "common": 0
+        },
+        {
+            "word": "미고",
+            "common": 0
+        },
+        {
+            "word": "시악",
+            "common": 0
+        },
+        {
+            "word": "깁",
+            "common": 0
+        },
+        {
+            "word": "고비",
+            "common": 0
+        },
+        {
+            "word": "아시",
+            "common": 0
+        },
+        {
+            "word": "녹비",
+            "common": 0
+        },
+        {
+            "word": "부소",
+            "common": 0
+        },
+        {
+            "word": "아시김",
+            "common": 0
+        },
+        {
+            "word": "노깃",
+            "common": 0
+        },
+        {
+            "word": "이목",
+            "common": 0
+        },
+        {
+            "word": "아식",
+            "common": 0
+        },
+        {
+            "word": "부보",
+            "common": 0
+        },
+        {
+            "word": "속아",
+            "common": 0
+        },
+        {
+            "word": "상본",
+            "common": 0
+        },
+        {
+            "word": "식봉",
+            "common": 0
+        },
+        {
+            "word": "이기",
+            "common": 0
+        },
+        {
+            "word": "손",
+            "common": 1
+        },
+        {
+            "word": "부비강",
+            "common": 0
+        },
+        {
+            "word": "보이",
+            "common": 0
+        },
+        {
+            "word": "봄",
+            "common": 1
+        },
+        {
+            "word": "복분",
+            "common": 0
+        },
+        {
+            "word": "옥분",
+            "common": 0
+        },
+        {
+            "word": "심",
+            "common": 0
+        },
+        {
+            "word": "빗기",
+            "common": 0
+        },
+        {
+            "word": "수노",
+            "common": 0
+        },
+        {
+            "word": "소강",
+            "common": 0
+        },
+        {
+            "word": "시온",
+            "common": 0
+        },
+        {
+            "word": "피고임",
+            "common": 0
+        },
+        {
+            "word": "비사",
+            "common": 0
+        },
+        {
+            "word": "미가",
+            "common": 0
+        },
+        {
+            "word": "시앗",
+            "common": 0
+        },
+        {
+            "word": "시비",
+            "common": 0
+        },
+        {
+            "word": "송",
+            "common": 0
+        },
+        {
+            "word": "미강",
+            "common": 0
+        },
+        {
+            "word": "공분",
+            "common": 0
+        },
+        {
+            "word": "가온",
+            "common": 0
+        },
+        {
+            "word": "오빗",
+            "common": 0
+        },
+        {
+            "word": "앗기",
+            "common": 0
+        },
+        {
+            "word": "농",
+            "common": 0
+        },
+        {
+            "word": "피본",
+            "common": 0
+        },
+        {
+            "word": "노임",
+            "common": 0
+        },
+        {
+            "word": "악본",
+            "common": 0
+        },
+        {
+            "word": "비봉",
+            "common": 0
+        },
+        {
+            "word": "고수",
+            "common": 0
+        },
+        {
+            "word": "시강",
+            "common": 0
+        },
+        {
+            "word": "기보",
+            "common": 0
+        },
+        {
+            "word": "기오",
+            "common": 0
+        },
+        {
+            "word": "보수",
+            "common": 1
+        },
+        {
+            "word": "피복",
+            "common": 0
+        },
+        {
+            "word": "십고",
+            "common": 0
+        },
+        {
+            "word": "깃옷",
+            "common": 0
+        },
+        {
+            "word": "부농가",
+            "common": 0
+        },
+        {
+            "word": "누송",
+            "common": 0
+        },
+        {
+            "word": "미아",
+            "common": 0
+        },
+        {
+            "word": "시부",
+            "common": 0
+        },
+        {
+            "word": "강비",
+            "common": 0
+        },
+        {
+            "word": "피비",
+            "common": 0
+        },
+        {
+            "word": "고",
+            "common": 0
+        },
+        {
+            "word": "식이",
+            "common": 0
+        },
+        {
+            "word": "소",
+            "common": 1
+        },
+        {
+            "word": "부복",
+            "common": 0
+        },
+        {
+            "word": "기본",
+            "common": 1
+        },
+        {
+            "word": "옥사",
+            "common": 0
+        },
+        {
+            "word": "상심",
+            "common": 0
+        },
+        {
+            "word": "기상소",
+            "common": 0
+        },
+        {
+            "word": "미오",
+            "common": 0
+        },
+        {
+            "word": "상부",
+            "common": 0
+        },
+        {
+            "word": "노아",
+            "common": 0
+        },
+        {
+            "word": "옵",
+            "common": 0
+        },
+        {
+            "word": "피고",
+            "common": 0
+        },
+        {
+            "word": "오붓",
+            "common": 0
+        },
+        {
+            "word": "노수",
+            "common": 0
+        },
+        {
+            "word": "앗",
+            "common": 0
+        },
+        {
+            "word": "식비",
+            "common": 0
+        },
+        {
+            "word": "이곳",
+            "common": 1
+        },
+        {
+            "word": "노",
+            "common": 0
+        },
+        {
+            "word": "이모부",
+            "common": 0
+        },
+        {
+            "word": "기본수",
+            "common": 0
+        },
+        {
+            "word": "복상",
+            "common": 0
+        },
+        {
+            "word": "비상",
+            "common": 1
+        },
+        {
+            "word": "녹시",
+            "common": 0
+        },
+        {
+            "word": "사옥",
+            "common": 0
+        },
+        {
+            "word": "사이모",
+            "common": 0
+        },
+        {
+            "word": "송심",
+            "common": 0
+        },
+        {
+            "word": "공부",
+            "common": 1
+        },
+        {
+            "word": "못이",
+            "common": 0
+        },
+        {
+            "word": "피복상",
+            "common": 0
+        },
+        {
+            "word": "소이",
+            "common": 0
+        },
+        {
+            "word": "보수비",
+            "common": 0
+        },
+        {
+            "word": "깃",
+            "common": 0
+        },
+        {
+            "word": "강모",
+            "common": 0
+        },
+        {
+            "word": "복비",
+            "common": 0
+        },
+        {
+            "word": "몬",
+            "common": 0
+        },
+        {
+            "word": "소부",
+            "common": 0
+        },
+        {
+            "word": "붓",
+            "common": 0
+        },
+        {
+            "word": "고아",
+            "common": 0
+        },
+        {
+            "word": "심순",
+            "common": 0
+        },
+        {
+            "word": "김수",
+            "common": 0
+        },
+        {
+            "word": "봉부",
+            "common": 0
+        },
+        {
+            "word": "보익",
+            "common": 0
+        },
+        {
+            "word": "소악부",
+            "common": 0
+        },
+        {
+            "word": "노기",
+            "common": 0
+        },
+        {
+            "word": "봉시",
+            "common": 0
+        },
+        {
+            "word": "사익",
+            "common": 0
+        },
+        {
+            "word": "공미",
+            "common": 0
+        },
+        {
+            "word": "고붓",
+            "common": 0
+        },
+        {
+            "word": "모순",
+            "common": 0
+        },
+        {
+            "word": "복임",
+            "common": 0
+        },
+        {
+            "word": "악시",
+            "common": 0
+        },
+        {
+            "word": "오비",
+            "common": 0
+        },
+        {
+            "word": "노이",
+            "common": 0
+        },
+        {
+            "word": "기아",
+            "common": 0
+        },
+        {
+            "word": "상미",
+            "common": 0
+        },
+        {
+            "word": "사오",
+            "common": 0
+        },
+        {
+            "word": "소아",
+            "common": 0
+        },
+        {
+            "word": "오누",
+            "common": 0
+        },
+        {
+            "word": "김",
+            "common": 1
+        },
+        {
+            "word": "봉분",
+            "common": 0
+        },
+        {
+            "word": "솜",
+            "common": 1
+        },
+        {
+            "word": "고부",
+            "common": 0
+        },
+        {
+            "word": "고미",
+            "common": 0
+        },
+        {
+            "word": "노가",
+            "common": 0
+        },
+        {
+            "word": "오분",
+            "common": 0
+        },
+        {
+            "word": "상목",
+            "common": 0
+        },
+        {
+            "word": "상속분",
+            "common": 0
+        },
+        {
+            "word": "사곳",
+            "common": 0
+        },
+        {
+            "word": "속이",
+            "common": 0
+        },
+        {
+            "word": "강시",
+            "common": 0
+        },
+        {
+            "word": "빗",
+            "common": 1
+        },
+        {
+            "word": "핏기",
+            "common": 0
+        },
+        {
+            "word": "노갓",
+            "common": 0
+        }
     ]
 }

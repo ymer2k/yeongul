@@ -1,349 +1,2180 @@
 {
     "grid": [
         [
-            "ㅍ",
-            "ㄴ",
-            "ㅔ",
-            "ㄱ"
-        ],
-        [
+            "ㅎ",
             "ㅈ",
-            "ㅏ",
-            "ㅣ",
-            "ㄹ"
+            "ㄹ",
+            "ㅈ"
         ],
         [
-            "ㅣ",
-            "ㄱ",
+            "ㄴ",
+            "ㅗ",
             "ㅏ",
             "ㅇ"
         ],
         [
+            "ㅅ",
+            "ㅏ",
             "ㅇ",
-            "ㅕ",
-            "ㅂ",
-            "ㅁ"
+            "ㅎ"
+        ],
+        [
+            "ㄱ",
+            "ㅗ",
+            "ㅣ",
+            "ㅐ"
         ]
     ],
     "bonuses": [
         [
-            4,
             0,
             0,
-            0
-        ],
-        [
-            0,
-            1,
             0,
             0
         ],
         [
             0,
-            1,
+            0,
+            0,
+            2
+        ],
+        [
+            0,
+            0,
             0,
             1
         ],
         [
             0,
-            1,
-            1,
+            0,
+            0,
             0
         ]
     ],
     "words": [
-        "기감",
-        "아",
-        "기압",
-        "마병",
-        "리아",
-        "가니",
-        "가벼이",
-        "아린",
-        "지",
-        "알",
-        "기간지",
-        "지갑",
-        "작발",
-        "여기",
-        "기엽",
-        "지기",
-        "게나",
-        "자기람",
-        "기라",
-        "이락",
-        "벼가리",
-        "병가",
-        "마린자",
-        "이감",
-        "갖",
-        "리",
-        "인자기",
-        "겹말",
-        "박잔",
-        "가리",
-        "길",
-        "지경",
-        "이나기",
-        "게",
-        "파",
-        "닐",
-        "일",
-        "막이",
-        "마레",
-        "니알",
-        "아경",
-        "지엽",
-        "이자",
-        "나기",
-        "판",
-        "레니",
-        "긴자",
-        "직방",
-        "낙이",
-        "역자",
-        "갈",
-        "압기",
-        "악병",
-        "지가",
-        "압경",
-        "여박",
-        "엽인",
-        "아가지",
-        "라",
-        "낙방",
-        "가병",
-        "말이",
-        "여간",
-        "감이",
-        "벼",
-        "엽기",
-        "마이",
-        "병감",
-        "갑인자",
-        "파니",
-        "이간",
-        "기아",
-        "이레",
-        "여방",
-        "이기",
-        "락",
-        "징가",
-        "락지",
-        "게리기",
-        "나직",
-        "지가이",
-        "인지",
-        "작방",
-        "자가",
-        "강리",
-        "기악",
-        "자네",
-        "이갑",
-        "맑",
-        "방",
-        "지감",
-        "바",
-        "직",
-        "자닝",
-        "여감",
-        "마경",
-        "린지",
-        "아깆",
-        "기자",
-        "라이",
-        "아레나",
-        "낙",
-        "기나",
-        "락자",
-        "자",
-        "직발",
-        "네기",
-        "자가리",
-        "암",
-        "파직",
-        "라가",
-        "이작",
-        "이강",
-        "악자",
-        "자강",
-        "니암",
-        "악",
-        "자감",
-        "니레",
-        "링",
-        "벽자",
-        "레",
-        "렌",
-        "여가",
-        "감익",
-        "병",
-        "이경",
-        "마일",
-        "바레",
-        "이라",
-        "박지",
-        "발기",
-        "나경",
-        "니기",
-        "지역",
-        "낙발",
-        "지가리",
-        "막잔",
-        "가",
-        "리간",
-        "감인",
-        "낙지",
-        "발인",
-        "가인",
-        "강",
-        "알기",
-        "이갈이",
-        "파기",
-        "낮",
-        "겔",
-        "자기",
-        "가징",
-        "기",
-        "이나",
-        "겹",
-        "기암",
-        "네",
-        "긴",
-        "갑인",
-        "인파",
-        "역",
-        "낙엽",
-        "기여",
-        "발이",
-        "지간",
-        "깆",
-        "벽",
-        "작병",
-        "니아",
-        "병간",
-        "바이",
-        "마기",
-        "람",
-        "리가",
-        "라병",
-        "갑",
-        "린",
-        "암벽",
-        "니랑",
-        "갑일",
-        "감인지",
-        "겐",
-        "팍",
-        "기간",
-        "가이",
-        "바리",
-        "아간",
-        "막자",
-        "간",
-        "병기",
-        "자갈",
-        "게락",
-        "기갑",
-        "락엽",
-        "가닐",
-        "판지",
-        "기기",
-        "이",
-        "말기",
-        "갉",
-        "갈이",
-        "감",
-        "자경",
-        "엽",
-        "박",
-        "바일",
-        "악지",
-        "아리",
-        "인자",
-        "발",
-        "겨",
-        "마리기",
-        "넥",
-        "기경",
-        "랍",
-        "감병",
-        "박이",
-        "익지",
-        "리깅",
-        "파경",
-        "니라",
-        "가일",
-        "기가",
-        "자니",
-        "작이",
-        "익",
-        "나",
-        "파지",
-        "라인",
-        "간지",
-        "이네",
-        "기강",
-        "린징",
-        "랑",
-        "익자",
-        "여",
-        "인작",
-        "밤일",
-        "니강",
-        "강린",
-        "엽이",
-        "아레기",
-        "니",
-        "게라",
-        "리기",
-        "지여",
-        "역발",
-        "잔",
-        "엽아",
-        "파가",
-        "지갈",
-        "게리",
-        "갈게",
-        "인",
-        "레나강",
-        "작",
-        "지강",
-        "바가지",
-        "마",
-        "이가",
-        "나지",
-        "여기자",
-        "막",
-        "징",
-        "갈기",
-        "아병",
-        "나감",
-        "벽지",
-        "망",
-        "마인",
-        "인징",
-        "박자",
-        "경",
-        "아기",
-        "말",
-        "강병",
-        "아가",
-        "밤",
-        "마린",
-        "막지",
-        "마리",
-        "여발",
-        "악징",
-        "긴작",
-        "가지",
-        "압",
-        "역방",
-        "마가",
-        "망리",
-        "가린",
-        "여가리",
-        "기갈",
-        "방리"
+        {
+            "word": "쇠알",
+            "common": 0
+        },
+        {
+            "word": "화외",
+            "common": 0
+        },
+        {
+            "word": "와",
+            "common": 1
+        },
+        {
+            "word": "졸",
+            "common": 0
+        },
+        {
+            "word": "완",
+            "common": 0
+        },
+        {
+            "word": "호앙",
+            "common": 0
+        },
+        {
+            "word": "간자",
+            "common": 0
+        },
+        {
+            "word": "아노",
+            "common": 0
+        },
+        {
+            "word": "환소",
+            "common": 0
+        },
+        {
+            "word": "사고",
+            "common": 1
+        },
+        {
+            "word": "좌해",
+            "common": 0
+        },
+        {
+            "word": "관소",
+            "common": 0
+        },
+        {
+            "word": "나속",
+            "common": 0
+        },
+        {
+            "word": "확",
+            "common": 1
+        },
+        {
+            "word": "로쇠",
+            "common": 0
+        },
+        {
+            "word": "장로",
+            "common": 0
+        },
+        {
+            "word": "장행",
+            "common": 0
+        },
+        {
+            "word": "공항",
+            "common": 1
+        },
+        {
+            "word": "노자",
+            "common": 0
+        },
+        {
+            "word": "하오",
+            "common": 0
+        },
+        {
+            "word": "고상",
+            "common": 0
+        },
+        {
+            "word": "해아",
+            "common": 0
+        },
+        {
+            "word": "화앙",
+            "common": 0
+        },
+        {
+            "word": "왈",
+            "common": 0
+        },
+        {
+            "word": "노랑이",
+            "common": 0
+        },
+        {
+            "word": "소간",
+            "common": 0
+        },
+        {
+            "word": "아고",
+            "common": 0
+        },
+        {
+            "word": "라오",
+            "common": 0
+        },
+        {
+            "word": "관활",
+            "common": 0
+        },
+        {
+            "word": "종항",
+            "common": 0
+        },
+        {
+            "word": "하",
+            "common": 1
+        },
+        {
+            "word": "로애",
+            "common": 0
+        },
+        {
+            "word": "아소",
+            "common": 0
+        },
+        {
+            "word": "안활",
+            "common": 0
+        },
+        {
+            "word": "존상",
+            "common": 0
+        },
+        {
+            "word": "소라",
+            "common": 0
+        },
+        {
+            "word": "혼자",
+            "common": 1
+        },
+        {
+            "word": "라외",
+            "common": 0
+        },
+        {
+            "word": "악소",
+            "common": 0
+        },
+        {
+            "word": "사와",
+            "common": 0
+        },
+        {
+            "word": "강",
+            "common": 1
+        },
+        {
+            "word": "혼",
+            "common": 0
+        },
+        {
+            "word": "강항",
+            "common": 0
+        },
+        {
+            "word": "활",
+            "common": 0
+        },
+        {
+            "word": "장이",
+            "common": 0
+        },
+        {
+            "word": "호아",
+            "common": 0
+        },
+        {
+            "word": "간종",
+            "common": 0
+        },
+        {
+            "word": "오",
+            "common": 1
+        },
+        {
+            "word": "괴오",
+            "common": 0
+        },
+        {
+            "word": "아소라",
+            "common": 0
+        },
+        {
+            "word": "조오",
+            "common": 0
+        },
+        {
+            "word": "과소라",
+            "common": 0
+        },
+        {
+            "word": "와해",
+            "common": 0
+        },
+        {
+            "word": "오자",
+            "common": 0
+        },
+        {
+            "word": "관홍",
+            "common": 0
+        },
+        {
+            "word": "관송",
+            "common": 0
+        },
+        {
+            "word": "로산",
+            "common": 0
+        },
+        {
+            "word": "해외",
+            "common": 1
+        },
+        {
+            "word": "항온",
+            "common": 0
+        },
+        {
+            "word": "산호",
+            "common": 0
+        },
+        {
+            "word": "와고",
+            "common": 0
+        },
+        {
+            "word": "오가",
+            "common": 0
+        },
+        {
+            "word": "공하",
+            "common": 0
+        },
+        {
+            "word": "라와",
+            "common": 0
+        },
+        {
+            "word": "조이",
+            "common": 0
+        },
+        {
+            "word": "낙송",
+            "common": 0
+        },
+        {
+            "word": "로소",
+            "common": 0
+        },
+        {
+            "word": "노송",
+            "common": 0
+        },
+        {
+            "word": "론자",
+            "common": 0
+        },
+        {
+            "word": "하종",
+            "common": 0
+        },
+        {
+            "word": "낛",
+            "common": 0
+        },
+        {
+            "word": "속",
+            "common": 1
+        },
+        {
+            "word": "하아",
+            "common": 0
+        },
+        {
+            "word": "간솔",
+            "common": 0
+        },
+        {
+            "word": "할",
+            "common": 0
+        },
+        {
+            "word": "올",
+            "common": 1
+        },
+        {
+            "word": "좋",
+            "common": 0
+        },
+        {
+            "word": "온자",
+            "common": 0
+        },
+        {
+            "word": "존소",
+            "common": 0
+        },
+        {
+            "word": "조쇠",
+            "common": 0
+        },
+        {
+            "word": "화소",
+            "common": 0
+        },
+        {
+            "word": "황아",
+            "common": 0
+        },
+        {
+            "word": "공",
+            "common": 1
+        },
+        {
+            "word": "알",
+            "common": 1
+        },
+        {
+            "word": "소외",
+            "common": 0
+        },
+        {
+            "word": "산졸",
+            "common": 0
+        },
+        {
+            "word": "조송",
+            "common": 0
+        },
+        {
+            "word": "항외",
+            "common": 0
+        },
+        {
+            "word": "장악",
+            "common": 0
+        },
+        {
+            "word": "가애",
+            "common": 0
+        },
+        {
+            "word": "낭",
+            "common": 0
+        },
+        {
+            "word": "환자",
+            "common": 1
+        },
+        {
+            "word": "오사",
+            "common": 0
+        },
+        {
+            "word": "노소",
+            "common": 0
+        },
+        {
+            "word": "관",
+            "common": 0
+        },
+        {
+            "word": "노라",
+            "common": 0
+        },
+        {
+            "word": "자행",
+            "common": 0
+        },
+        {
+            "word": "하완",
+            "common": 0
+        },
+        {
+            "word": "가이",
+            "common": 0
+        },
+        {
+            "word": "사",
+            "common": 1
+        },
+        {
+            "word": "아졸",
+            "common": 0
+        },
+        {
+            "word": "좌아",
+            "common": 0
+        },
+        {
+            "word": "노속",
+            "common": 0
+        },
+        {
+            "word": "좡이",
+            "common": 0
+        },
+        {
+            "word": "론",
+            "common": 0
+        },
+        {
+            "word": "괴행",
+            "common": 0
+        },
+        {
+            "word": "아오",
+            "common": 0
+        },
+        {
+            "word": "해오",
+            "common": 0
+        },
+        {
+            "word": "호이",
+            "common": 0
+        },
+        {
+            "word": "공알",
+            "common": 0
+        },
+        {
+            "word": "로자",
+            "common": 0
+        },
+        {
+            "word": "괴애",
+            "common": 0
+        },
+        {
+            "word": "산종",
+            "common": 0
+        },
+        {
+            "word": "아",
+            "common": 1
+        },
+        {
+            "word": "안좌",
+            "common": 0
+        },
+        {
+            "word": "애항",
+            "common": 0
+        },
+        {
+            "word": "환",
+            "common": 0
+        },
+        {
+            "word": "잘",
+            "common": 1
+        },
+        {
+            "word": "관좌",
+            "common": 0
+        },
+        {
+            "word": "아안",
+            "common": 0
+        },
+        {
+            "word": "힝",
+            "common": 0
+        },
+        {
+            "word": "고사",
+            "common": 0
+        },
+        {
+            "word": "해완",
+            "common": 0
+        },
+        {
+            "word": "항안",
+            "common": 0
+        },
+        {
+            "word": "고안",
+            "common": 0
+        },
+        {
+            "word": "광아",
+            "common": 0
+        },
+        {
+            "word": "하졸",
+            "common": 0
+        },
+        {
+            "word": "화히",
+            "common": 0
+        },
+        {
+            "word": "간송",
+            "common": 0
+        },
+        {
+            "word": "아론",
+            "common": 0
+        },
+        {
+            "word": "하애",
+            "common": 0
+        },
+        {
+            "word": "앙",
+            "common": 0
+        },
+        {
+            "word": "자완",
+            "common": 0
+        },
+        {
+            "word": "자",
+            "common": 1
+        },
+        {
+            "word": "옷",
+            "common": 1
+        },
+        {
+            "word": "안조",
+            "common": 0
+        },
+        {
+            "word": "아애",
+            "common": 0
+        },
+        {
+            "word": "하조",
+            "common": 0
+        },
+        {
+            "word": "사이",
+            "common": 1
+        },
+        {
+            "word": "황해",
+            "common": 0
+        },
+        {
+            "word": "하좌",
+            "common": 0
+        },
+        {
+            "word": "환송",
+            "common": 0
+        },
+        {
+            "word": "사왕",
+            "common": 0
+        },
+        {
+            "word": "장옥",
+            "common": 0
+        },
+        {
+            "word": "아아",
+            "common": 1
+        },
+        {
+            "word": "완호",
+            "common": 0
+        },
+        {
+            "word": "호라이",
+            "common": 0
+        },
+        {
+            "word": "론사",
+            "common": 0
+        },
+        {
+            "word": "고완",
+            "common": 0
+        },
+        {
+            "word": "화안",
+            "common": 0
+        },
+        {
+            "word": "쇠악",
+            "common": 0
+        },
+        {
+            "word": "왕",
+            "common": 1
+        },
+        {
+            "word": "낙소",
+            "common": 0
+        },
+        {
+            "word": "오소라",
+            "common": 0
+        },
+        {
+            "word": "갓",
+            "common": 0
+        },
+        {
+            "word": "관황",
+            "common": 0
+        },
+        {
+            "word": "소랑",
+            "common": 0
+        },
+        {
+            "word": "과오",
+            "common": 0
+        },
+        {
+            "word": "장아",
+            "common": 0
+        },
+        {
+            "word": "고안자",
+            "common": 0
+        },
+        {
+            "word": "나",
+            "common": 1
+        },
+        {
+            "word": "좌와",
+            "common": 0
+        },
+        {
+            "word": "항오",
+            "common": 0
+        },
+        {
+            "word": "하왁",
+            "common": 0
+        },
+        {
+            "word": "관졸",
+            "common": 0
+        },
+        {
+            "word": "안소",
+            "common": 0
+        },
+        {
+            "word": "산자이",
+            "common": 0
+        },
+        {
+            "word": "하와",
+            "common": 0
+        },
+        {
+            "word": "고앙",
+            "common": 0
+        },
+        {
+            "word": "라이",
+            "common": 0
+        },
+        {
+            "word": "온",
+            "common": 1
+        },
+        {
+            "word": "산자",
+            "common": 0
+        },
+        {
+            "word": "황외",
+            "common": 0
+        },
+        {
+            "word": "롱",
+            "common": 0
+        },
+        {
+            "word": "가송",
+            "common": 0
+        },
+        {
+            "word": "솽",
+            "common": 0
+        },
+        {
+            "word": "아종",
+            "common": 0
+        },
+        {
+            "word": "가솔",
+            "common": 0
+        },
+        {
+            "word": "잫",
+            "common": 0
+        },
+        {
+            "word": "옥",
+            "common": 0
+        },
+        {
+            "word": "알종",
+            "common": 0
+        },
+        {
+            "word": "나솔",
+            "common": 0
+        },
+        {
+            "word": "아악",
+            "common": 0
+        },
+        {
+            "word": "라",
+            "common": 0
+        },
+        {
+            "word": "호상",
+            "common": 0
+        },
+        {
+            "word": "노옥",
+            "common": 0
+        },
+        {
+            "word": "오소",
+            "common": 0
+        },
+        {
+            "word": "하악",
+            "common": 0
+        },
+        {
+            "word": "고왕",
+            "common": 0
+        },
+        {
+            "word": "하롱",
+            "common": 0
+        },
+        {
+            "word": "하올",
+            "common": 0
+        },
+        {
+            "word": "고오",
+            "common": 0
+        },
+        {
+            "word": "로",
+            "common": 0
+        },
+        {
+            "word": "하옥",
+            "common": 0
+        },
+        {
+            "word": "악",
+            "common": 0
+        },
+        {
+            "word": "호랑이",
+            "common": 1
+        },
+        {
+            "word": "가왕",
+            "common": 0
+        },
+        {
+            "word": "화고",
+            "common": 0
+        },
+        {
+            "word": "광알",
+            "common": 0
+        },
+        {
+            "word": "좌이",
+            "common": 0
+        },
+        {
+            "word": "황행",
+            "common": 0
+        },
+        {
+            "word": "롸",
+            "common": 0
+        },
+        {
+            "word": "아이",
+            "common": 1
+        },
+        {
+            "word": "하안",
+            "common": 0
+        },
+        {
+            "word": "사알",
+            "common": 0
+        },
+        {
+            "word": "오속",
+            "common": 0
+        },
+        {
+            "word": "호장",
+            "common": 0
+        },
+        {
+            "word": "소자",
+            "common": 0
+        },
+        {
+            "word": "상",
+            "common": 1
+        },
+        {
+            "word": "확쇠",
+            "common": 0
+        },
+        {
+            "word": "라아",
+            "common": 0
+        },
+        {
+            "word": "괴안",
+            "common": 0
+        },
+        {
+            "word": "낭항",
+            "common": 0
+        },
+        {
+            "word": "나아",
+            "common": 0
+        },
+        {
+            "word": "아행",
+            "common": 0
+        },
+        {
+            "word": "소완",
+            "common": 0
+        },
+        {
+            "word": "해",
+            "common": 1
+        },
+        {
+            "word": "호악",
+            "common": 0
+        },
+        {
+            "word": "간호자",
+            "common": 0
+        },
+        {
+            "word": "공히",
+            "common": 0
+        },
+        {
+            "word": "혼상",
+            "common": 0
+        },
+        {
+            "word": "존",
+            "common": 0
+        },
+        {
+            "word": "관종",
+            "common": 0
+        },
+        {
+            "word": "조",
+            "common": 1
+        },
+        {
+            "word": "괴",
+            "common": 0
+        },
+        {
+            "word": "완조",
+            "common": 0
+        },
+        {
+            "word": "오산",
+            "common": 0
+        },
+        {
+            "word": "공아",
+            "common": 0
+        },
+        {
+            "word": "존속",
+            "common": 0
+        },
+        {
+            "word": "고소장",
+            "common": 0
+        },
+        {
+            "word": "자좌",
+            "common": 0
+        },
+        {
+            "word": "조아",
+            "common": 0
+        },
+        {
+            "word": "나외",
+            "common": 0
+        },
+        {
+            "word": "고와",
+            "common": 0
+        },
+        {
+            "word": "소오",
+            "common": 0
+        },
+        {
+            "word": "소왈",
+            "common": 0
+        },
+        {
+            "word": "강하",
+            "common": 0
+        },
+        {
+            "word": "황알",
+            "common": 0
+        },
+        {
+            "word": "졸장",
+            "common": 0
+        },
+        {
+            "word": "로상",
+            "common": 0
+        },
+        {
+            "word": "자해",
+            "common": 0
+        },
+        {
+            "word": "사온",
+            "common": 0
+        },
+        {
+            "word": "나알",
+            "common": 0
+        },
+        {
+            "word": "아해",
+            "common": 0
+        },
+        {
+            "word": "관조",
+            "common": 0
+        },
+        {
+            "word": "항로",
+            "common": 0
+        },
+        {
+            "word": "소가",
+            "common": 0
+        },
+        {
+            "word": "솧",
+            "common": 0
+        },
+        {
+            "word": "사애",
+            "common": 0
+        },
+        {
+            "word": "로외",
+            "common": 0
+        },
+        {
+            "word": "자조",
+            "common": 0
+        },
+        {
+            "word": "호송",
+            "common": 0
+        },
+        {
+            "word": "과",
+            "common": 1
+        },
+        {
+            "word": "아롱",
+            "common": 0
+        },
+        {
+            "word": "자안",
+            "common": 0
+        },
+        {
+            "word": "노악",
+            "common": 0
+        },
+        {
+            "word": "조라",
+            "common": 0
+        },
+        {
+            "word": "소왕",
+            "common": 0
+        },
+        {
+            "word": "이",
+            "common": 1
+        },
+        {
+            "word": "간활",
+            "common": 0
+        },
+        {
+            "word": "과송",
+            "common": 0
+        },
+        {
+            "word": "노상",
+            "common": 0
+        },
+        {
+            "word": "아조",
+            "common": 0
+        },
+        {
+            "word": "가",
+            "common": 0
+        },
+        {
+            "word": "조소",
+            "common": 0
+        },
+        {
+            "word": "호소",
+            "common": 0
+        },
+        {
+            "word": "장애",
+            "common": 0
+        },
+        {
+            "word": "홍하",
+            "common": 0
+        },
+        {
+            "word": "조상",
+            "common": 1
+        },
+        {
+            "word": "산화",
+            "common": 0
+        },
+        {
+            "word": "조안",
+            "common": 0
+        },
+        {
+            "word": "소장",
+            "common": 0
+        },
+        {
+            "word": "조옥",
+            "common": 0
+        },
+        {
+            "word": "조랑",
+            "common": 0
+        },
+        {
+            "word": "항아",
+            "common": 0
+        },
+        {
+            "word": "가앙",
+            "common": 0
+        },
+        {
+            "word": "호완",
+            "common": 0
+        },
+        {
+            "word": "종하",
+            "common": 0
+        },
+        {
+            "word": "좌안",
+            "common": 0
+        },
+        {
+            "word": "좌",
+            "common": 0
+        },
+        {
+            "word": "손자",
+            "common": 1
+        },
+        {
+            "word": "소낭",
+            "common": 0
+        },
+        {
+            "word": "황이",
+            "common": 0
+        },
+        {
+            "word": "종알",
+            "common": 0
+        },
+        {
+            "word": "하로",
+            "common": 0
+        },
+        {
+            "word": "가소올",
+            "common": 0
+        },
+        {
+            "word": "고사이",
+            "common": 0
+        },
+        {
+            "word": "노랑애",
+            "common": 0
+        },
+        {
+            "word": "오라",
+            "common": 0
+        },
+        {
+            "word": "조사",
+            "common": 1
+        },
+        {
+            "word": "아로",
+            "common": 0
+        },
+        {
+            "word": "삭",
+            "common": 0
+        },
+        {
+            "word": "사올",
+            "common": 0
+        },
+        {
+            "word": "히아",
+            "common": 0
+        },
+        {
+            "word": "히",
+            "common": 0
+        },
+        {
+            "word": "좍",
+            "common": 0
+        },
+        {
+            "word": "오손",
+            "common": 0
+        },
+        {
+            "word": "광하",
+            "common": 0
+        },
+        {
+            "word": "행",
+            "common": 0
+        },
+        {
+            "word": "완장",
+            "common": 0
+        },
+        {
+            "word": "좔",
+            "common": 0
+        },
+        {
+            "word": "존사",
+            "common": 0
+        },
+        {
+            "word": "소안",
+            "common": 0
+        },
+        {
+            "word": "로송",
+            "common": 0
+        },
+        {
+            "word": "화괴",
+            "common": 0
+        },
+        {
+            "word": "상하",
+            "common": 0
+        },
+        {
+            "word": "완소",
+            "common": 0
+        },
+        {
+            "word": "간호장",
+            "common": 0
+        },
+        {
+            "word": "황하",
+            "common": 0
+        },
+        {
+            "word": "소나이",
+            "common": 0
+        },
+        {
+            "word": "장",
+            "common": 1
+        },
+        {
+            "word": "소나",
+            "common": 0
+        },
+        {
+            "word": "조산",
+            "common": 0
+        },
+        {
+            "word": "사오라",
+            "common": 0
+        },
+        {
+            "word": "관화",
+            "common": 0
+        },
+        {
+            "word": "광",
+            "common": 0
+        },
+        {
+            "word": "홍",
+            "common": 0
+        },
+        {
+            "word": "가아",
+            "common": 0
+        },
+        {
+            "word": "옥산",
+            "common": 0
+        },
+        {
+            "word": "쇠안",
+            "common": 0
+        },
+        {
+            "word": "온장",
+            "common": 0
+        },
+        {
+            "word": "애",
+            "common": 1
+        },
+        {
+            "word": "호산",
+            "common": 0
+        },
+        {
+            "word": "사외",
+            "common": 0
+        },
+        {
+            "word": "간화",
+            "common": 0
+        },
+        {
+            "word": "노사",
+            "common": 0
+        },
+        {
+            "word": "관호",
+            "common": 0
+        },
+        {
+            "word": "놓",
+            "common": 0
+        },
+        {
+            "word": "해옥",
+            "common": 0
+        },
+        {
+            "word": "나송",
+            "common": 0
+        },
+        {
+            "word": "호안",
+            "common": 0
+        },
+        {
+            "word": "농아",
+            "common": 0
+        },
+        {
+            "word": "와괴",
+            "common": 0
+        },
+        {
+            "word": "나이",
+            "common": 1
+        },
+        {
+            "word": "곳",
+            "common": 1
+        },
+        {
+            "word": "자히",
+            "common": 0
+        },
+        {
+            "word": "놋",
+            "common": 0
+        },
+        {
+            "word": "혼속",
+            "common": 0
+        },
+        {
+            "word": "송아",
+            "common": 0
+        },
+        {
+            "word": "산조",
+            "common": 0
+        },
+        {
+            "word": "간조",
+            "common": 0
+        },
+        {
+            "word": "화악",
+            "common": 0
+        },
+        {
+            "word": "외",
+            "common": 1
+        },
+        {
+            "word": "송하",
+            "common": 0
+        },
+        {
+            "word": "조속",
+            "common": 0
+        },
+        {
+            "word": "소악",
+            "common": 0
+        },
+        {
+            "word": "롱아",
+            "common": 0
+        },
+        {
+            "word": "쇠",
+            "common": 1
+        },
+        {
+            "word": "완화",
+            "common": 0
+        },
+        {
+            "word": "노와",
+            "common": 0
+        },
+        {
+            "word": "호랑이해",
+            "common": 0
+        },
+        {
+            "word": "산좌",
+            "common": 0
+        },
+        {
+            "word": "항",
+            "common": 0
+        },
+        {
+            "word": "외항",
+            "common": 0
+        },
+        {
+            "word": "괴완",
+            "common": 0
+        },
+        {
+            "word": "화공",
+            "common": 0
+        },
+        {
+            "word": "왁",
+            "common": 0
+        },
+        {
+            "word": "고소",
+            "common": 0
+        },
+        {
+            "word": "환장",
+            "common": 0
+        },
+        {
+            "word": "자아",
+            "common": 0
+        },
+        {
+            "word": "않",
+            "common": 0
+        },
+        {
+            "word": "간좌",
+            "common": 0
+        },
+        {
+            "word": "호랑",
+            "common": 0
+        },
+        {
+            "word": "애하",
+            "common": 0
+        },
+        {
+            "word": "황옥",
+            "common": 0
+        },
+        {
+            "word": "화해",
+            "common": 0
+        },
+        {
+            "word": "사공",
+            "common": 0
+        },
+        {
+            "word": "이항로",
+            "common": 0
+        },
+        {
+            "word": "공해",
+            "common": 1
+        },
+        {
+            "word": "혼소",
+            "common": 0
+        },
+        {
+            "word": "좌고",
+            "common": 0
+        },
+        {
+            "word": "고온",
+            "common": 0
+        },
+        {
+            "word": "강해",
+            "common": 0
+        },
+        {
+            "word": "장해",
+            "common": 0
+        },
+        {
+            "word": "상해",
+            "common": 0
+        },
+        {
+            "word": "조낭",
+            "common": 0
+        },
+        {
+            "word": "낫",
+            "common": 0
+        },
+        {
+            "word": "로이",
+            "common": 0
+        },
+        {
+            "word": "고이",
+            "common": 0
+        },
+        {
+            "word": "자이",
+            "common": 0
+        },
+        {
+            "word": "솨",
+            "common": 0
+        },
+        {
+            "word": "가옷",
+            "common": 0
+        },
+        {
+            "word": "호사",
+            "common": 0
+        },
+        {
+            "word": "나올",
+            "common": 0
+        },
+        {
+            "word": "자오",
+            "common": 0
+        },
+        {
+            "word": "안장",
+            "common": 0
+        },
+        {
+            "word": "안속",
+            "common": 0
+        },
+        {
+            "word": "소와",
+            "common": 0
+        },
+        {
+            "word": "고산자",
+            "common": 0
+        },
+        {
+            "word": "이항",
+            "common": 0
+        },
+        {
+            "word": "광해",
+            "common": 0
+        },
+        {
+            "word": "아손",
+            "common": 0
+        },
+        {
+            "word": "아옥",
+            "common": 0
+        },
+        {
+            "word": "조사공",
+            "common": 0
+        },
+        {
+            "word": "손",
+            "common": 1
+        },
+        {
+            "word": "조소앙",
+            "common": 0
+        },
+        {
+            "word": "고알",
+            "common": 0
+        },
+        {
+            "word": "솔",
+            "common": 0
+        },
+        {
+            "word": "앙해",
+            "common": 0
+        },
+        {
+            "word": "조삭",
+            "common": 0
+        },
+        {
+            "word": "로사",
+            "common": 0
+        },
+        {
+            "word": "오장",
+            "common": 0
+        },
+        {
+            "word": "고손자",
+            "common": 0
+        },
+        {
+            "word": "나공",
+            "common": 0
+        },
+        {
+            "word": "소강",
+            "common": 0
+        },
+        {
+            "word": "하이",
+            "common": 0
+        },
+        {
+            "word": "강알",
+            "common": 0
+        },
+        {
+            "word": "고올",
+            "common": 0
+        },
+        {
+            "word": "환속",
+            "common": 0
+        },
+        {
+            "word": "홍해",
+            "common": 0
+        },
+        {
+            "word": "좌완",
+            "common": 0
+        },
+        {
+            "word": "고송",
+            "common": 0
+        },
+        {
+            "word": "황",
+            "common": 0
+        },
+        {
+            "word": "송",
+            "common": 0
+        },
+        {
+            "word": "산",
+            "common": 1
+        },
+        {
+            "word": "조앙",
+            "common": 0
+        },
+        {
+            "word": "농해",
+            "common": 0
+        },
+        {
+            "word": "장외",
+            "common": 0
+        },
+        {
+            "word": "가온",
+            "common": 0
+        },
+        {
+            "word": "사아",
+            "common": 0
+        },
+        {
+            "word": "가외",
+            "common": 0
+        },
+        {
+            "word": "상항",
+            "common": 0
+        },
+        {
+            "word": "안",
+            "common": 1
+        },
+        {
+            "word": "농",
+            "common": 0
+        },
+        {
+            "word": "이해",
+            "common": 1
+        },
+        {
+            "word": "해안",
+            "common": 1
+        },
+        {
+            "word": "안자",
+            "common": 0
+        },
+        {
+            "word": "간소",
+            "common": 0
+        },
+        {
+            "word": "항론",
+            "common": 0
+        },
+        {
+            "word": "놀",
+            "common": 0
+        },
+        {
+            "word": "조알",
+            "common": 0
+        },
+        {
+            "word": "화행",
+            "common": 0
+        },
+        {
+            "word": "자종",
+            "common": 0
+        },
+        {
+            "word": "자애",
+            "common": 0
+        },
+        {
+            "word": "상아",
+            "common": 0
+        },
+        {
+            "word": "나왕",
+            "common": 0
+        },
+        {
+            "word": "고산",
+            "common": 0
+        },
+        {
+            "word": "조애",
+            "common": 0
+        },
+        {
+            "word": "오솔",
+            "common": 0
+        },
+        {
+            "word": "가노",
+            "common": 0
+        },
+        {
+            "word": "로안",
+            "common": 0
+        },
+        {
+            "word": "고",
+            "common": 0
+        },
+        {
+            "word": "소",
+            "common": 1
+        },
+        {
+            "word": "라완",
+            "common": 0
+        },
+        {
+            "word": "간호",
+            "common": 1
+        },
+        {
+            "word": "옥소",
+            "common": 0
+        },
+        {
+            "word": "론속",
+            "common": 0
+        },
+        {
+            "word": "낭하",
+            "common": 0
+        },
+        {
+            "word": "오소장",
+            "common": 0
+        },
+        {
+            "word": "화이",
+            "common": 0
+        },
+        {
+            "word": "옥사",
+            "common": 0
+        },
+        {
+            "word": "오간",
+            "common": 0
+        },
+        {
+            "word": "해악",
+            "common": 0
+        },
+        {
+            "word": "하옺",
+            "common": 0
+        },
+        {
+            "word": "조악",
+            "common": 0
+        },
+        {
+            "word": "솰",
+            "common": 0
+        },
+        {
+            "word": "노아",
+            "common": 0
+        },
+        {
+            "word": "안화",
+            "common": 0
+        },
+        {
+            "word": "노랑",
+            "common": 0
+        },
+        {
+            "word": "오쇠",
+            "common": 0
+        },
+        {
+            "word": "해왕",
+            "common": 0
+        },
+        {
+            "word": "호외",
+            "common": 0
+        },
+        {
+            "word": "고손",
+            "common": 0
+        },
+        {
+            "word": "옷가",
+            "common": 0
+        },
+        {
+            "word": "랑아",
+            "common": 0
+        },
+        {
+            "word": "앗",
+            "common": 0
+        },
+        {
+            "word": "관솔",
+            "common": 0
+        },
+        {
+            "word": "장안",
+            "common": 0
+        },
+        {
+            "word": "관장",
+            "common": 0
+        },
+        {
+            "word": "소옥",
+            "common": 0
+        },
+        {
+            "word": "노",
+            "common": 0
+        },
+        {
+            "word": "고애",
+            "common": 0
+        },
+        {
+            "word": "소애",
+            "common": 0
+        },
+        {
+            "word": "자로",
+            "common": 0
+        },
+        {
+            "word": "해이",
+            "common": 0
+        },
+        {
+            "word": "낭아",
+            "common": 0
+        },
+        {
+            "word": "사옥",
+            "common": 0
+        },
+        {
+            "word": "오랑",
+            "common": 0
+        },
+        {
+            "word": "종",
+            "common": 1
+        },
+        {
+            "word": "가소",
+            "common": 0
+        },
+        {
+            "word": "화",
+            "common": 1
+        },
+        {
+            "word": "홍알",
+            "common": 0
+        },
+        {
+            "word": "로와",
+            "common": 0
+        },
+        {
+            "word": "괴아",
+            "common": 0
+        },
+        {
+            "word": "외해",
+            "common": 0
+        },
+        {
+            "word": "사노",
+            "common": 0
+        },
+        {
+            "word": "화아",
+            "common": 0
+        },
+        {
+            "word": "소이",
+            "common": 0
+        },
+        {
+            "word": "황애",
+            "common": 0
+        },
+        {
+            "word": "노쇠",
+            "common": 0
+        },
+        {
+            "word": "가손",
+            "common": 0
+        },
+        {
+            "word": "왓",
+            "common": 0
+        },
+        {
+            "word": "아속",
+            "common": 0
+        },
+        {
+            "word": "놋과",
+            "common": 0
+        },
+        {
+            "word": "랑",
+            "common": 0
+        },
+        {
+            "word": "화속",
+            "common": 0
+        },
+        {
+            "word": "고아",
+            "common": 0
+        },
+        {
+            "word": "자존",
+            "common": 0
+        },
+        {
+            "word": "솔장이",
+            "common": 0
+        },
+        {
+            "word": "호자",
+            "common": 0
+        },
+        {
+            "word": "간장",
+            "common": 1
+        },
+        {
+            "word": "과소",
+            "common": 0
+        },
+        {
+            "word": "이하",
+            "common": 1
+        },
+        {
+            "word": "완자",
+            "common": 0
+        },
+        {
+            "word": "나소",
+            "common": 0
+        },
+        {
+            "word": "라조",
+            "common": 0
+        },
+        {
+            "word": "노이",
+            "common": 0
+        },
+        {
+            "word": "사오",
+            "common": 0
+        },
+        {
+            "word": "소아",
+            "common": 0
+        },
+        {
+            "word": "호오",
+            "common": 0
+        },
+        {
+            "word": "졸자",
+            "common": 0
+        },
+        {
+            "word": "알조",
+            "common": 0
+        },
+        {
+            "word": "간",
+            "common": 1
+        },
+        {
+            "word": "노장",
+            "common": 0
+        },
+        {
+            "word": "낙",
+            "common": 0
+        },
+        {
+            "word": "상알",
+            "common": 0
+        },
+        {
+            "word": "로장",
+            "common": 0
+        },
+        {
+            "word": "사농",
+            "common": 0
+        },
+        {
+            "word": "자온",
+            "common": 0
+        },
+        {
+            "word": "좃",
+            "common": 0
+        },
+        {
+            "word": "산장",
+            "common": 0
+        },
+        {
+            "word": "자옥",
+            "common": 0
+        },
+        {
+            "word": "관자",
+            "common": 0
+        },
+        {
+            "word": "장옷",
+            "common": 0
+        },
+        {
+            "word": "혼사",
+            "common": 0
+        },
+        {
+            "word": "로옥",
+            "common": 0
+        },
+        {
+            "word": "홀",
+            "common": 0
+        },
+        {
+            "word": "호",
+            "common": 1
+        },
+        {
+            "word": "화오",
+            "common": 0
+        },
+        {
+            "word": "소아론",
+            "common": 0
+        },
+        {
+            "word": "장롱",
+            "common": 0
+        }
     ]
 }
