@@ -16,8 +16,37 @@
             justify-content: center;
             align-items: center;
         }
+        @font-face {
+            font-family: 'Pretendard-Regular';
+            src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+            font-weight: 400;
+            font-style: normal;
+        }   
+        @font-face {
+            font-family: 'Pretendard-Black';
+            src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Black.woff') format('woff');
+            font-weight: 900;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Pretendard-Bold';
+            src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Bold.woff') format('woff');
+            font-weight: 700;
+            font-style: normal;
+        }
+        @font-face {
+            font-family: 'Pretendard-Medium';
+            src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Medium.woff') format('woff');
+            font-weight: 500;
+            font-style: normal;
+        }
     </style>
-  <script type="module" crossorigin src="./assets/index-A0t2QpST.js"></script>
+    <!-- This will preload the font so that it will be available quicker. Even if my font is shown in the first scene, putting the preload font here will load it before the scene loads!!-->
+    <link rel="preload" href="https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Black.woff" as="font" type="font/woff" crossorigin="anonymous">
+    <link rel="preload" href="https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Bold.woff" as="font" type="font/woff" crossorigin="anonymous">
+    <link rel="preload" href="https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Medium.woff" as="font" type="font/woff" crossorigin="anonymous">
+
+  <script type="module" crossorigin src="./assets/index-Dw5L1faQ.js"></script>
   <link rel="modulepreload" crossorigin href="./assets/phaser-C2_wa_Fb.js">
 </head>
 
